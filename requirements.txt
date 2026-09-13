@@ -1,0 +1,6 @@
+streamlit
+pandas
+openai
+sympy
+requests
+openpyxl
