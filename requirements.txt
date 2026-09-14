@@ -4,3 +4,4 @@ openai
 sympy
 requests
 openpyxl
+PyMuPDF
